@@ -1,6 +1,6 @@
 ## 📝 Deployed Contract Info
 
-- Contract Address: `0x1234...abcd`
+- Contract Address: `0x1FC845bFCCCaEc29325F1457179bA8B75289f3D5`
 - Network: Sepolia Testnet
 - Functions: `like()`, `hasLiked(address)`, `likeCount`
 
