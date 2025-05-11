@@ -1,3 +1,11 @@
+## 📝 Deployed Contract Info
+
+- Contract Address: `0x1234...abcd`
+- Network: Sepolia Testnet
+- Functions: `like()`, `hasLiked(address)`, `likeCount`
+
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
